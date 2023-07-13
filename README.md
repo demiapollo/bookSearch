@@ -20,4 +20,4 @@ This project was created using the [starter code](https://github.com/coding-boot
 
 ## Links
 View Repository on [Github](https://github.com/demiapollo/bookSearch)
-View the deployed [App](https://github.com/demiapollo/bookSearch)
+View the deployed [App](https://booksearch67-559429cc431f.herokuapp.com/)
